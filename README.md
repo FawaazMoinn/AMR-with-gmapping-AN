@@ -6,7 +6,8 @@ A 4-wheeled mobile bot which autonomously navigates while mapping the environmen
 
 ## URDF Image created in Fusion 360
 
-![amr v2](https://user-images.githubusercontent.com/69638726/199487703-2b231099-0af6-4f19-b35f-5aa28df56436.png)
+![amr v3](https://user-images.githubusercontent.com/69638726/199509528-7f9b12cd-feb6-4ca7-991b-37b2b5dc3ce1.png)
+
 
 ## To launch model in Gazebo 
 
